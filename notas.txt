@@ -1,0 +1,2 @@
+1. npm init -y //dentro de la carpeta del proyecto
+2. npm install express --save //npm i express --save
